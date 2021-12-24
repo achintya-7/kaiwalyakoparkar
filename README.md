@@ -59,6 +59,13 @@ I am Kaiwalya Koparkar, currently pursuing my Diploma majoring in computer scien
 <a href='https://www.buymeacoffee.com/kaiwalya' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png' border='0' alt='Support Kaiwalya on buymecoffee' /></a>
 </p>
 
+
+### :zap: Recent Activity
+
+<!--START_SECTION:activity-->
+
+<!--END_SECTION:activity-->
+
 ## 📈 Stats
 <p align="center">
 	
